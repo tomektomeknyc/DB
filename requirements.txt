@@ -31,3 +31,5 @@ streamlit
 pandas
 openpyxl
 REFINITIV_APP_KEY = cb64a413a4f04804b8a6a82bde9c35087f7f819c
+requests
+
