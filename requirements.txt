@@ -22,7 +22,6 @@ nbconvert>=6.0.0
 tqdm>=4.60.0
 openpyxl
 refinitiv-data
-
 kaggle
 pandas
 numpy
