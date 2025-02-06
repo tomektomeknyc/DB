@@ -3,5 +3,6 @@ numpy
 refinitiv-data
 requests
 jupyter
+python-dotenv
 
 
