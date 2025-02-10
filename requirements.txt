@@ -6,5 +6,7 @@ jupyter
 python-dotenv
 matplotlib
 seaborn
+statsmodels
+
 
 
