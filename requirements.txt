@@ -4,5 +4,7 @@ refinitiv-data
 requests
 jupyter
 python-dotenv
+matplotlib
+seaborn
 
 
